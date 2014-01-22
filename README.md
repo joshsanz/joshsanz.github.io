@@ -1,4 +1,4 @@
-joshsanz.github.io
-==================
+Josh Sanz
+=========
 
 Adventures in Embedded Systems
