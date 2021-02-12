@@ -35,6 +35,24 @@
  * Update the foundational and global aspects of the page.
  */
 
+/* Berkeley colors
+ * blue #003262
+ * light blue #3b7ea1
+ * gold #fdb515
+ * dark gold #c4820e
+ *
+ * orange #D9661F
+ * rose #ee1f60
+ * salmon #ed4e33
+ * brown #6c3302
+ * fog #ddd5c7
+ * sage #b9d3b6
+ * pacific #46535e
+ * green #859438
+ * olive #584f29
+ * grey #eeeeee, #888888
+ */
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -61,7 +79,7 @@ html {
 
 body {
   color: #515151;
-  background-color: #fff;
+  background-color: #eee;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
@@ -257,8 +275,10 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255, 255, 255, 0.5);
-  background-color: #202020;
+  /*color: rgba(255, 255, 255, 0.5);*/
+  color: #FDB515;
+  /*background-color: #202020;*/
+  background-color: #003262;
 }
 
 @media (min-width: 768px) {
