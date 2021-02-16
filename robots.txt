@@ -1,4 +1,4 @@
-Sitemap: https://joshsanz.me/sitemap.xml
+Sitemap: http://joshsanz.me/sitemap.xml
 
 User-agent: *
 Disallow:
