@@ -14,6 +14,12 @@ Topics covered:
 * Practical DAC and ADC
 * Image compression
 
+Responsibilities:
+* Office hours
+* Recitation sections
+* Update and run labs
+* Modified final project for remote learning
+
 ## EECS 189/289A Introduction to Machine Learning
 Taught in Fall 2020 with Anant Sahai, Jennifer Listgarten, and Jitendra Malik.
 [Webpage](https://eecs189.org)
@@ -29,3 +35,7 @@ Topics covered:
 * SVMs, clustering, decision trees
 * Boosting
 
+Responsibilities:
+* Write and debug homework and exam problems
+* Recitation sections
+* Office hours
