@@ -1,11 +1,8 @@
 @def title = "Josh Sanz"
 @def tags = ["machine learning", "wireless communications", "signal processing"]
 
-Here is an animation of the training process for two agents in my [research](/research/).
+My work explores key challenges in applying machine learning to wireless communication and sensing: learning communication protocols autonomously, automatic sensor calibration using environmental signals, and generating synthetic datasets for data-scarce domains. The first chapter examines interactive supervision for learning wireless PHY communication, where two independent agents develop a shared communication protocol without prior coordination. By introducing various levels of information sharing, including minimal-feedback Echo protocols, the study demonstrates how agents can iteratively refine their signal encoding strategies. Experimental results show that even with limited information exchange, agents can achieve reliable communication, with applications in decentralized and adaptive wireless networks. The study also investigates whether agents with different architectures—so-called “alien agents”—can still learn to communicate effectively, revealing that structured diversity in agent design can sometimes enhance learning efficiency.
 
-![Classic mods](/assets/classic_mods.png)
+The second chapter focuses on environmental supervision for automatic sensing and calibration in distributed wireless networks. The work introduces the use of signals of opportunity, such as ADS-B transmissions from aircraft and LEO satellite signals, to assess and calibrate spectrum sensors without requiring explicit cooperation from transmitters. This approach enables automatic evaluation of sensor placement, field of view, and obstruction levels, addressing challenges in crowd-sourced spectrum monitoring where sensor reliability varies. The third chapter tackles the issue of data scarcity by exploring the use of generative models to create synthetic datasets for wireless and biomedical signals. Instead of relying on scarce real-world datasets, the study adapts image-based diffusion models to generate synthetic spectrograms of EEG signals, assessing their statistical similarity and utility for downstream classification tasks. The findings highlight the need for careful validation of synthetic data, as distributional similarity does not always guarantee effective model training. Together, these chapters contribute to advancing machine learning applications in wireless communication, spectrum sensing, and data generation, addressing critical bottlenecks in real-world deployment.
 
-You can find much more detail in the [arXiv](https://arxiv.org/abs/1801.04541) version of the paper.
-
-The code is available on [github](https://github.com/ml4wireless/echo).
-
+For further details, [click here](/research)

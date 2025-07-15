@@ -1,6 +1,6 @@
 # Teaching
 ## EE 123 Digital Signal Processing
-Taught in Spring 2020 with Miki Lustig.
+Taught in Spring 2020 with Miki Lustig and Spring 2022 with Gopala Anumanchipalli.
 [Webpage](https://sites.google.com/berkeley.edu/ee123-sp20/home)
 
 Topics covered:
