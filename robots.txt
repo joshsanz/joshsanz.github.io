@@ -1,4 +1,4 @@
-Sitemap: http://joshsanz.me/sitemap.xml
+Sitemap: http://www.kn6ahs.engineer/sitemap.xml
 
 User-agent: *
 Disallow:
