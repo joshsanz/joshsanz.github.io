@@ -86,9 +86,9 @@ html {
 }
 
 /* On wide screens, fix content width to a max value. */
-@media (min-width: 940px) {
+@media (min-width: 1600px) {
   .franklin-content {
-    width: 705px;
+    width: 1300px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -249,6 +249,22 @@ td {
   width: 50%;
   text-align: center;
   padding-left: 20%;
+}
+
+.franklin-content .img-rounded img {
+  max-width: 100%;
+  max-height: 100%;
+  padding-left: 0px;
+  margin: auto;
+  display: block;
+  border-radius: 30px;
+}
+
+.franklin-content .container-grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
 }
 
 /* ==================================================================
