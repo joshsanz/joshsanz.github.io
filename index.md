@@ -13,7 +13,7 @@
     @@
 @@
 
-I am currently looking for work, interested particularly in projects which combine machine learning with perception and prediction of the world. I can be contacted via [LinkedIn](www.linkedin.com/in/josh-sanz-79888772).
+I am currently looking for work, interested particularly in projects which combine machine learning with perception and prediction of the world. I can be contacted via [LinkedIn](https://www.linkedin.com/in/josh-sanz-79888772).
 
 More on my [research](./research) and [teaching](./teaching).
 
