@@ -251,21 +251,6 @@ td {
   padding-left: 20%;
 }
 
-.franklin-content .img-rounded img {
-  max-width: 100%;
-  max-height: 100%;
-  padding-left: 0px;
-  margin: auto;
-  display: block;
-  border-radius: 30px;
-}
-
-.franklin-content .container-grid {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-bottom: 10px;
-}
 
 /* ==================================================================
     KATEX
