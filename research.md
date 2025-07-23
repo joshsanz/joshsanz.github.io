@@ -18,6 +18,12 @@ Instead of relying on scarce real-world datasets, the study adapts image-based d
 The findings highlight the need for careful validation of synthetic data, as distributional similarity does not always guarantee effective model training.
 Together, my research contributes to advancing machine learning applications in wireless communication, spectrum sensing, and synthetic data generation, addressing critical bottlenecks in real-world deployment of adaptive "cognitive radio" systems.
 
+## Dissertation Talk
+
+~~~
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_oytc5DA_oQ?si=maPduwuBtbpPu942" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+~~~
+
 ## Publications
 
 A. Sahai, **J. Sanz**, V. Subramanian, C. Tran, and K. Vodrahalli. 2019. Learning to Communicate with Limited Co-design. In _2019 57th Annual Allerton Conference on Communication, Control, and Computing (Allerton)_. IEEE Press, 184–191. doi: [10.1109/ALLERTON.2019.8919749](https://doi.org/10.1109/ALLERTON.2019.8919749).

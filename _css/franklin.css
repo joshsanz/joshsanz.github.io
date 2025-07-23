@@ -186,8 +186,8 @@ td {
 }
 
 .franklin-content a {
-  color: #004de6;
-  text-decoration: none;
+  color: #242424;
+  text-decoration: underline;
 }
 
 .franklin-content a:hover {

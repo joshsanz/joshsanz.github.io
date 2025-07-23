@@ -3,19 +3,19 @@
 
 
 # About Me
-@@container-grid
+@@image-flex-wrapper
     @@img-rounded
         ![](/assets/headshot.jpg)
     @@
 
-    @@text
+    @@flex-text
         I graduated from UC Berkeley with a Ph.D. in Electrical Engineering and Computer Science in December 2024. Before starting grad school, I spent three years at MIT Lincoln Laboratory doing radar and wireless communications signal processing. My research while at Berkeley spanned ML for the physical layer of wireless communications, ML *using* wireless signals, and most recently generative modeling for data-scarce domains. I am passionate about taking tools from across domains and applying them in new and creative ways to solve real problems. I am unafraid to tackle challenging problems and acquire new skills to develop solutions. Outside of research, I love cooking, rock climbing, and running with my Mini Australian Shepherd, Vesemir.
     @@
 @@
 
 I am currently looking for work, interested particularly in projects which combine machine learning with perception and prediction of the world. I can be contacted via [LinkedIn](https://www.linkedin.com/in/josh-sanz-79888772).
 
-More on my [research](./research) and [teaching](./teaching).
+More on my [**research**](./research) and [**teaching**](./teaching).
 
 ## Publications
 
